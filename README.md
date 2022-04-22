@@ -1,9 +1,9 @@
 
 # Hi there, I am Arjav 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-desaiarjav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/desaiarjav)](https://twitter.com/desaiarjav)
+[![Twitter Badge](https://img.shields.io/badge/-desaiarjav-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/desaiarjav) [![LinkedIn Badge](https://img.shields.io/badge/-desaiarjav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjav/)
 
-1. :office: Principal Software Engineer at Oracle.
+1. :office: Principal Software Engineer at [Oracle](https://www.oracle.com).
 2. 🔭 Currently building framework for next-gen cloud native application, [Helidon](https://www.helidon.io/).
 4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI.
 
