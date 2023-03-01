@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-desaiarjav-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/desaiarjav) [![LinkedIn Badge](https://img.shields.io/badge/-desaiarjav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjav/)
 
 1. :office: Principal Software Engineer at [Oracle](https://www.oracle.com).
-2. 🔭 Currently building framework to make development of next-gen cloud native application easier and efficient, [Helidon](https://www.helidon.io/).
+2. 🔭 Currently [building framework](https://helidon.io) to make development of next-gen cloud native application easier and efficient, [Helidon](https://www.helidon.io/).
 4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI.
 
 #### How to reach me
