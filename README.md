@@ -7,9 +7,6 @@
 2. 🔭 Currently [building framework](https://helidon.io) to make development of next-gen cloud native application easier and efficient, [Helidon](https://www.helidon.io/).
 4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI.
 
-#### How to reach me
-- 📫 Email arjav.desai@gmail.com
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjav-desai&show_icons=true&count_private=true&hide_title=true)
 
 <!--
