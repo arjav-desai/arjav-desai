@@ -7,9 +7,10 @@
 2. 🔭 Currently [building framework](https://helidon.io) to make development of next-gen cloud native application easier and efficient, [Helidon](https://www.helidon.io/).
 4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI.
 
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjav-desai&show_icons=true&count_private=true&hide_title=true)
 
-<!--
+
 **arjav-desai/arjav-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
