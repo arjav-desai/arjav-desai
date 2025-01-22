@@ -5,7 +5,7 @@
 
 1. :office: Consulting Software Engineer at [Oracle](https://www.oracle.com).
 2. 🔭 Currently building framework to make development of next-gen cloud native application easier and efficient, [Helidon](https://www.helidon.io/).
-4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI.
+4. :heart: Java, Helidon, Transaction Processing, Kubernetes, OCI, GenAI.
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjav-desai&show_icons=true&count_private=true&hide_title=true)
